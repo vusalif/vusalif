@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vusalif
 - 👀 I’m interested in developing and design projects
 - 🌱 I’m currently working on Vinlocked
-- 📫 To reach me [](https://read.cv/imranli)
+- 📫 To reach me [click this](https://read.cv/imranli)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i love pizza, oh also stop-motion
 
