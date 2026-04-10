@@ -2,9 +2,7 @@
 
 ✷ built several projects across all platforms, that includes: web, native ios, chrome extensions. 🍏
 
-✷ if you want see my projects visit my personal website. 🥗
-
-✷ if you want to contact with me visit the email right below. 📩
+✷ if you want to contact with me check the email right below. 📩
 
 ⎯ thank you.
 <!---
